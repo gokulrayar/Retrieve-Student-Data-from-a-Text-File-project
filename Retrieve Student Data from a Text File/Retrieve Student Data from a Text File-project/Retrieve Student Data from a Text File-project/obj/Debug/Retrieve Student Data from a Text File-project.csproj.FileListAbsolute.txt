@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\Retrieve Student Data from a Text File-project\Retrieve Student Data from a Text File-project\bin\Debug\Retrieve Student Data from a Text File-project.exe.config
+C:\Users\rayar\source\repos\Retrieve Student Data from a Text File-project\Retrieve Student Data from a Text File-project\bin\Debug\Retrieve Student Data from a Text File-project.exe
+C:\Users\rayar\source\repos\Retrieve Student Data from a Text File-project\Retrieve Student Data from a Text File-project\bin\Debug\Retrieve Student Data from a Text File-project.pdb
+C:\Users\rayar\source\repos\Retrieve Student Data from a Text File-project\Retrieve Student Data from a Text File-project\obj\Debug\Retrieve Student Data from a Text File-project.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\Retrieve Student Data from a Text File-project\Retrieve Student Data from a Text File-project\obj\Debug\Retrieve Student Data from a Text File-project.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\Retrieve Student Data from a Text File-project\Retrieve Student Data from a Text File-project\obj\Debug\Retrieve Student Data from a Text File-project.exe
+C:\Users\rayar\source\repos\Retrieve Student Data from a Text File-project\Retrieve Student Data from a Text File-project\obj\Debug\Retrieve Student Data from a Text File-project.pdb
